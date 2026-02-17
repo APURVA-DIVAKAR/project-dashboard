@@ -88,7 +88,7 @@ Reusable `EmptyState` component ensures consistent UI for empty scenarios.
 1. Clone repository
 
 ```
-git clone <repo-url>
+git clone <https://github.com/APURVA-DIVAKAR/project-dashboard/blob/main/README.md>
 ```
 
 2. Install dependencies
